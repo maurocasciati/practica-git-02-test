@@ -17,8 +17,8 @@ Vamos a usar este ejemplo básico para ver cómo pueden ocurrir conflictos al tr
 | 5 | | Detalles de Partidos | El Mundial |
 | 6 | | Estadísticas y Premios | El Mundial |
 | 7 | | Historial de Mundiales | El Mundial |
-| 8 | | Eventos en Vivo | La Final |
-| 9 | Mauro Casciati | Estado del Equipo en la Final | La Final |
+| 8 | Mauro Casciati | Eventos en Vivo | La Final |
+| 9 | | Estado del Equipo en la Final | La Final |
 | 10 | Matias Caputi | **Jugar la Final** *(Responsabilidad Grupal)* | La Final |
 
 > **Jugar la Final** es obligatoria para la aprobación del TP y responsabilidad de todo el grupo. Debe poder jugarse de principio a fin sin errores. De ella dependen: Eventos en Vivo, Estado del Equipo, Estadísticas y Premios e Historial de Mundiales.
