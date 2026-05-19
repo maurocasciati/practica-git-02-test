@@ -95,10 +95,11 @@ nav a.active {
 }
 
 .bar {
-    width: 40px;
-    background-color: #3b82f6;
-    border-radius: 4px 4px 0 0;
+    width: 35px;
+    background-color: #10b981;
+    border-radius: 2px 2px 0 0;
     position: relative;
+    transition: height 0.3s ease;
 }
 
 .bar span {
