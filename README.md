@@ -17,7 +17,7 @@ Vamos a usar este ejemplo básico para ver cómo pueden ocurrir conflictos al tr
 | 5 | | Detalles de Partidos | El Mundial |
 | 6 | | Estadísticas y Premios | El Mundial |
 | 7 | | Historial de Mundiales | El Mundial |
-| 8 | | Eventos en Vivo | La Final |
+| 8 | Matias Caputi | Eventos en Vivo | La Final |
 | 9 | | Estado del Equipo en la Final | La Final |
 | 10 | | **Jugar la Final** *(Responsabilidad Grupal)* | La Final |
 
