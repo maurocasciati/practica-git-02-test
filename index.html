@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panel de Control - E-Commerce</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Menú de navegación lateral -->
+    <aside class="sidebar">
+        <div class="logo">ShopMetrics</div>
+        <nav>
+            <ul>
+                <li><a href="#" class="active">Inicio</a></li>
+                <li><a href="#">Ventas</a></li>
+                <li><a href="#">Productos</a></li>
+            </ul>
+        </nav>
+        <button id="alertBtn" class="btn-alert">Desactivar Alertas</button>
+    </aside>
+
+    <!-- Área de contenido principal de la aplicación -->
+    <main class="main-content">
+        
+        <!-- Encabezado de la sección actual -->
+        <header class="top-header">
+            <h1>Resumen de Ventas</h1>
+            <div class="user-profile">Admin Tienda</div>
+        </header>
+
+        <!-- Nota/Alerta informativa (Usa aside porque es contenido tangencial) -->
+        <aside class="banner-notice" id="promoBanner">
+            <p><strong>Atención:</strong> La campaña de Hot Sale finaliza en 24 horas.</p>
+        </aside>
+
+        <!-- Sección del gráfico de métricas -->
+        <section class="chart-section">
+            <h2>Ventas de la Semana</h2>
+            <div class="chart-bars">
+                <div class="bar" style="height: 40%"><span>Lun</span></div>
+                <div class="bar" style="height: 65%"><span>Mar</span></div>
+                <div class="bar" style="height: 85%"><span>Mié</span></div>
+                <div class="bar" style="height: 30%"><span>Jue</span></div>
+                <div class="bar" style="height: 95%"><span>Vie</span></div>
+            </div>
+        </section>
+
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
